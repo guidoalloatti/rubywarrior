@@ -1,5 +1,4 @@
 
-# rubywarrior
 ## RUBYWARRIOR
 This is my solution for the rubywarrior game.
 ## Levels
